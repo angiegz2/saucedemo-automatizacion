@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Compra y validación de productos en SauceDemo","Usuario realiza compra exitosa","SUCCESS","2025-11-19T06:51:59.766924-05:00[America/Bogota]","0.0","8.65"
+"Compra y validación de productos en SauceDemo","Usuario intenta iniciar sesión con credenciales inválidas","SUCCESS","2025-11-19T06:52:09.0559118-05:00[America/Bogota]","0.0","4.11"
+"Compra y validación de productos en SauceDemo","Usuario bloqueado intenta iniciar sesión","SUCCESS","2025-11-19T06:52:13.6365453-05:00[America/Bogota]","0.0","3.34"
+"Compra y validación de productos en SauceDemo","Proceso exitoso de compra","SUCCESS","2025-11-19T06:52:17.4024945-05:00[America/Bogota]","0.0","5.65"
