@@ -43,4 +43,8 @@ public class ProductsPage {
 
     public static final Target COMPLETE_MESSAGE = Target.the("mensaje de compra completa")
             .located(By.className("complete-header"));
+
+    public static final Target REMOVE_BIKE_LIGHT = Target.the("botón para eliminar lámpara")
+            .located(By.id("remove-sauce-labs-bike-light"));
+
 }
