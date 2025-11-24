@@ -1,6 +1,6 @@
 Feature: Compra y validación de productos en SauceDemo
 
-  Scenario: Usuario realiza compra exitosa
+  Scenario: Validación del carrito
     Given que el usuario abre la página SauceDemo
     When inicia sesión con usuario "standard_user" y contraseña "secret_sauce"
     And agrega productos al carrito
